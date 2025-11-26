@@ -1,14 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @aimanhaziqmy, an engineer with a passion for technology and a focus on developing robust server infrastructures and cutting-edge applications. My expertise lies in the MERN stack, where I excel in creating dynamic and scalable applications using ReactJS, React Native, and Node.js. I am also a research student researching data processing with python, Kafka, Nats, AWS, Machine Learning, NLP, Apache Spark and Apache Flink.
-
-💼 Currently, I thrive in managing server infrastructures efficiently, employing tools like Ansible, Docker, and Kubernetes to ensure smooth operations and seamless deployments. I also work on server monitoring tools like Prometheus and Grafana.
-
-🌱 I’m continuously expanding my skill set to stay ahead in the ever-evolving tech landscape. I'm currently delving into diverse areas such as React, React Native, Node.js, Laravel, Google Cloud, Azure, AWS, Firebase, Tensorflow, Python, Java, and PHP, empowering me to take on multifaceted projects.
-
-💡 I'm eager to take on challenges in the services industry, where I can leverage my skills in backend development, database management, and API integration to create practical and innovative solutions. Automation is my forte, and I take pride in streamlining processes to boost productivity.
-
-📫 Let's collaborate! Reach out to me at me@aimanhaziq.my or explore more about my work at https://aimanhaziq.my. I'm open to exciting opportunities where I can contribute my expertise and drive technological advancements.
-
+I’m a Data Engineer with expertise in cloud infrastructure and application development, focused on building scalable pipelines and resilient systems. Proficient in Linux, databases, automation, monitoring, and application design, I create solutions that ensure data and infrastructure remain reliable. I enjoy developing tools, application and workflows that make systems faster, smarter, and easier to manage
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aimanhaziq.my) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aimanhaziqmy) 
