@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me
-I am a **Data Engineer and Infrastructure Specialist** with over 4 years of experience building scalable pipelines, resilient cloud systems and involve in software development. I specialise in bridging the gap between application development and infrastructure reliability.
+I am a **Data Engineer and Infrastructure Specialist** with over 4 years of experience building scalable pipelines and resilient cloud systems. I specialise in bridging the gap between application development and infrastructure reliability.
 
 - 🚀 **Industrial Impact:** Optimised a solar farm monitoring platform and reduced operational costs through data-driven logic. Managed real-time data streams via RabbitMQ for solar component monitoring using Raspberry Pi
 - 🏗️ **Infrastructure:** Expert in orchestrating containerized replicas via RKE2 and automating deployments with Ansible. Engineered a high-availability sharded MongoDB instances for large-scale datasets and MariaDB replication.
